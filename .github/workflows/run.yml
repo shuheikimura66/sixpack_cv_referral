@@ -1,4 +1,4 @@
-name: Sixpack CV Referral
+name: Sixpack CV Referral Thismonth
 
 on:
   workflow_dispatch:
